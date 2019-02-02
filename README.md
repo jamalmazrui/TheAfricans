@@ -2,7 +2,8 @@
 A video series of "The Africans: A Triple Heritage" by Ali Mazrui
 
 Distributed by his son, Jamal Mazrui, on February 2, 2019\
-Licensed as [Creative Commons — Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0)
+Licensed as [Creative Commons — Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) (CC BY-NC-SA 4.0)
+)
 
 *The Africans: A Triple Heritage* was a 9-part documentary series released in 1986 from a collaboration between the British Broadcasting Corporation (BBC) in the U.K. and the Public Broadcasting Service (PBS) in the U.S.  Each episode may be downloaded individually below.  A video about the author, Professor Ali Mazrui, is also available.
 
