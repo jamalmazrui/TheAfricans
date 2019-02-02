@@ -1,7 +1,10 @@
 ﻿# TheAfricans
 A video series of "The Africans: A Triple Heritage" by Ali Mazrui
 
-Distributed by Jamal Mazrui on February 2, 2019
+Distributed by Jamal Mazrui on February 2, 2019\
+Licensed as [Creative Commons — Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0)
+
+*The Africans: A Triple Heritage* was a 9-part documentary series released in 1986 as a collaboration between the British Broadcasting Corporation (BBC) in the U.K. and the Public Broadcasting Service (PBS) in the U.S.  Each episode may be downloaded individually below.  A video about the author, Ali Mazrui, is also available.
 
 - [Episode 1 - The Nature of a Continent](https://github.com/jamalmazrui/TheAfricans/raw/master/The%20Africans%20-%20Episode%201%20-%20The%20Nature%20of%20a%20Continent.mp4)
 - [Episode 2 - A Legacy of Lifestyles](https://github.com/jamalmazrui/TheAfricans/raw/master/The%20Africans%20-%20Episode%202%20-%20A%20Legacy%20of%20Lifestyles.mp4)
