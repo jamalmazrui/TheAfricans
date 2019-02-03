@@ -7,13 +7,13 @@ Licensed as [Creative Commons — Attribution-NonCommercial-ShareAlike 4.0 Inter
 
 This project is a downloadable series of .mp4 videos by my late father, licensed as Creative Commons noncommercial 4.0 international.  
 
-*The Africans: A Triple Heritage* was a 9-part documentary series released in 1986 from a collaboration between the British Broadcasting Corporation (BBC) in the United Kingdom, the Public Broadcasting Service (PBS) in the United States, and the Nigerian Television Authority (NTA) in Nigeria.  Each episode may be downloaded individually from the following web page:
+*The Africans: A Triple Heritage* was a 9-part documentary series released in 1986 from a collaboration among the British Broadcasting Corporation (BBC) in the United Kingdom, the Public Broadcasting Service (PBS) in the United States, and the Nigerian Television Authority (NTA) in Nigeria.  Each episode may be downloaded individually from the following web page:
 
 <http://GitHub.com/JamalMazrui/TheAfricans>
 
 A biographical video about the author and presenter, Professor Ali Mazrui, is also available.
 
-The nine parts of the series, plus the author bio, are available as follows:
+The nine videos of this series, plus author bio, are available as follows:
 
 - [Episode 1 - The Nature of a Continent](https://github.com/jamalmazrui/TheAfricans/raw/master/The%20Africans%20-%20Episode%201%20-%20The%20Nature%20of%20a%20Continent.mp4)
 - [Episode 2 - A Legacy of Lifestyles](https://github.com/jamalmazrui/TheAfricans/raw/master/The%20Africans%20-%20Episode%202%20-%20A%20Legacy%20of%20Lifestyles.mp4)
